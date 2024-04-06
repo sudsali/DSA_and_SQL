@@ -1,7 +1,7 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
         stack = []
-        to_remove = set()
+        remove_indices = set()
         for i, char in enumerate(s):
             if char == '(':
                 stack.append(i)
@@ -9,14 +9,24 @@ class Solution:
                 if stack:
                     stack.pop()
                 else:
-                    to_remove.add(i)
-        to_remove.update(stack)
-        result = ''
-        for i, char in enumerate(s):
-            if i not in to_remove:
-                result += char
-        return result
+                    remove_indices.add(i)
 
+        stack = []
+        for i in range(len(s) - 1, -1, -1):
+            if s[i] == ')':
+                stack.append(i)
+            elif s[i] == '(':
+                if stack:
+                    stack.pop()
+                else:
+                    remove_indices.add(i)
+
+        result = []
+        for i, char in enumerate(s):
+            if i not in remove_indices:
+                result.append(char)
+
+        return ''.join(result)
                 
                 
         
