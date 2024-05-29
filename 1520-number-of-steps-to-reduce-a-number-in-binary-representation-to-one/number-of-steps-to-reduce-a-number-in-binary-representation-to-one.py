@@ -1,7 +1,7 @@
 class Solution:
     def numSteps(self, s: str) -> int:
         #convert binary to decimal
-        num = 0
+        #num = 0
         num = int(s,2)
         #for i in range(len(s)):
         #    mod = c % 10
