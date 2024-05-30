@@ -4,9 +4,8 @@ class Solution:
         i = 0
         g.sort()
         s.sort()
-        ans = 0
         if len(s) == 0 or len(g) == 0:
-            return ans
+            return j
         while i < len(s) and j< len(g):
             if j < len(g) and s[i] >= g[j]:
                 j+=1
