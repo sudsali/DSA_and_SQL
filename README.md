@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/sudsali/DSA/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/sudsali/DSA/tree/master/1044-find-common-characters) |
 | [3194-find-words-containing-character](https://github.com/sudsali/DSA/tree/master/3194-find-words-containing-character) |
 # Matrix
@@ -22,4 +23,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/sudsali/DSA/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/sudsali/DSA/tree/master/1044-find-common-characters) |
+# Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/sudsali/DSA/tree/master/0409-longest-palindrome) |
