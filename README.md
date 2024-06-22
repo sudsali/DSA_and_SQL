@@ -39,3 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sudsali/DSA/tree/master/0344-reverse-string) |
+# Database
+|  |
+| ------- |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sudsali/DSA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
