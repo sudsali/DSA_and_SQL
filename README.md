@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/sudsali/DSA/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/sudsali/DSA/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/sudsali/DSA/tree/master/1044-find-common-characters) |
 | [3194-find-words-containing-character](https://github.com/sudsali/DSA/tree/master/3194-find-words-containing-character) |
@@ -34,3 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sudsali/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
+# Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/sudsali/DSA/tree/master/0344-reverse-string) |
