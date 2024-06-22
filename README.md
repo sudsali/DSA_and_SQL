@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1791-richest-customer-wealth](https://github.com/sudsali/DSA/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/sudsali/DSA/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sudsali/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/sudsali/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3194-find-words-containing-character](https://github.com/sudsali/DSA/tree/master/3194-find-words-containing-character) |
 # String
 |  |
@@ -43,3 +44,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sudsali/DSA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+# Dynamic Programming
+|  |
+| ------- |
+| [2696-the-number-of-beautiful-subsets](https://github.com/sudsali/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
+# Backtracking
+|  |
+| ------- |
+| [2696-the-number-of-beautiful-subsets](https://github.com/sudsali/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
+# Sorting
+|  |
+| ------- |
+| [2696-the-number-of-beautiful-subsets](https://github.com/sudsali/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
