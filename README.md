@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sudsali/DSA/tree/master/0217-contains-duplicate) |
 | [1044-find-common-characters](https://github.com/sudsali/DSA/tree/master/1044-find-common-characters) |
 | [1791-richest-customer-wealth](https://github.com/sudsali/DSA/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/sudsali/DSA/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sudsali/DSA/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/sudsali/DSA/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/sudsali/DSA/tree/master/1044-find-common-characters) |
 # Greedy
@@ -55,4 +57,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sudsali/DSA/tree/master/0217-contains-duplicate) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/sudsali/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
