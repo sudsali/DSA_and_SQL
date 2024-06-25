@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2454-largest-local-values-in-a-matrix](https://github.com/sudsali/DSA/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sudsali/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/sudsali/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/sudsali/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/sudsali/DSA/tree/master/3194-find-words-containing-character) |
 # String
 |  |
