@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/sudsali/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sudsali/DSA/tree/master/0217-contains-duplicate) |
 | [1044-find-common-characters](https://github.com/sudsali/DSA/tree/master/1044-find-common-characters) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/sudsali/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1791-richest-customer-wealth](https://github.com/sudsali/DSA/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/sudsali/DSA/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sudsali/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
