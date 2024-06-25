@@ -64,3 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sudsali/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sudsali/DSA/tree/master/0242-valid-anagram) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/sudsali/DSA/tree/master/2696-the-number-of-beautiful-subsets) |
+# Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/sudsali/DSA/tree/master/2383-add-two-integers) |
