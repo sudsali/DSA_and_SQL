@@ -68,3 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/sudsali/DSA/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/sudsali/DSA/tree/master/2491-smallest-even-multiple) |
+# Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/sudsali/DSA/tree/master/2491-smallest-even-multiple) |
