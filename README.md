@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sudsali/DSA/tree/master/0344-reverse-string) |
+| [2481-strictly-palindromic-number](https://github.com/sudsali/DSA/tree/master/2481-strictly-palindromic-number) |
 # Database
 |  |
 | ------- |
@@ -69,8 +70,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/sudsali/DSA/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/sudsali/DSA/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/sudsali/DSA/tree/master/2491-smallest-even-multiple) |
 # Number Theory
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/sudsali/DSA/tree/master/2491-smallest-even-multiple) |
+# Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/sudsali/DSA/tree/master/2481-strictly-palindromic-number) |
