@@ -17,7 +17,6 @@ class Solution:
         s+= curr
         if count > 1:
             s+= str(count)
-        print(s)
         chars.clear()
         for i in s:
             chars+=i            
