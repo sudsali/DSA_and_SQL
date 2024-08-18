@@ -6,12 +6,6 @@
 class Solution:
     def oddEvenList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if head:
-            temp = head
-            l = 0 
-            while temp:
-                l+=1
-                temp = temp.next
-            print(l)
             even = head.next
             odd = head
             even_head = even
