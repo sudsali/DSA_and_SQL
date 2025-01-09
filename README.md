@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sudsali/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sudsali/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/sudsali/DSA/tree/master/1894-merge-strings-alternately) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sudsali/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/sudsali/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/sudsali/DSA/tree/master/2727-number-of-senior-citizens) |
 ## Math
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudsali/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sudsali/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/sudsali/DSA/tree/master/1833-find-the-highest-altitude) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sudsali/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/sudsali/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/sudsali/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/sudsali/DSA/tree/master/2727-number-of-senior-citizens) |
@@ -282,4 +284,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0112-path-sum](https://github.com/sudsali/DSA/tree/master/0112-path-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sudsali/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sudsali/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
