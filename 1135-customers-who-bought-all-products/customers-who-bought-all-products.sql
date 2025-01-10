@@ -1,7 +1,4 @@
 # Write your MySQL query statement below
-WITH counts AS (
-    SELECT COUNT(*) AS totalcounts FROM Product
-)
 SELECT c.customer_id
 FROM Customer c 
 JOIN Product p ON c.product_key = p.product_key
