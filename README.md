@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/sudsali/DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/sudsali/DSA/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/sudsali/DSA/tree/master/0649-dota2-senate) |
+| [0952-word-subsets](https://github.com/sudsali/DSA/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sudsali/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sudsali/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sudsali/DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/sudsali/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sudsali/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sudsali/DSA/tree/master/0735-asteroid-collision) |
+| [0952-word-subsets](https://github.com/sudsali/DSA/tree/master/0952-word-subsets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sudsali/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/sudsali/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sudsali/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/sudsali/DSA/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/sudsali/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sudsali/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sudsali/DSA/tree/master/1777-determine-if-two-strings-are-close) |
