@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/sudsali/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudsali/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sudsali/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/sudsali/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sudsali/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sudsali/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
 | [0952-word-subsets](https://github.com/sudsali/DSA/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/sudsali/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sudsali/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sudsali/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sudsali/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sudsali/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -208,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sudsali/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 ## Stack
 |  |
@@ -318,4 +322,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/sudsali/DSA/tree/master/0113-path-sum-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
