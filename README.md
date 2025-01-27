@@ -1,5 +1,5 @@
-# DSA
-Collection of LeetCode questions I solved to ace the coding interview!
+# DSA and SQL Questions
+Collection of LeetCode questions I have solved!
 
 
 # Array
