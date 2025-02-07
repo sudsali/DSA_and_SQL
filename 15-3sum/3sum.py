@@ -8,8 +8,7 @@ class Solution:
             l = i+1
             r = len(nums)-1
             while l < r:
-                dummy = [nums[l],nums[r],nums[i]]
-                total = sum(dummy)
+                total = nums[l] + nums[r] + nums[i]
                 if total == 0:
                     res.add((nums[l],nums[r],nums[i]))
                     l+=1
