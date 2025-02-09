@@ -94,6 +94,7 @@ Collection of LeetCode questions I have solved!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudsali/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sudsali/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/sudsali/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudsali/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sudsali/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sudsali/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sudsali/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions I have solved!
 | [0088-merge-sorted-array](https://github.com/sudsali/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudsali/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudsali/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudsali/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sudsali/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/sudsali/DSA/tree/master/0238-product-of-array-except-self) |
@@ -214,6 +216,7 @@ Collection of LeetCode questions I have solved!
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudsali/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1046-max-consecutive-ones-iii](https://github.com/sudsali/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
 |  |
