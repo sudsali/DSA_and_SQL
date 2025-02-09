@@ -4,7 +4,7 @@ class Solution:
         r = len(numbers)-1
         while l < r:
             if numbers[l] + numbers[r] == target:
-                return [numbers.index(numbers[l])+1,len(numbers)-numbers[::-1].index(numbers[r])]
+                return [l+1,r+1]
             elif numbers[l] + numbers[r] > target:
                 r-=1
             else:
