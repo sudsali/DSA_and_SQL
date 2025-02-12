@@ -1,5 +1,7 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+
+        #here we need to keep on removing element from l until curr element is in the hashset
         res = 0
         l = 0
         h = set()
