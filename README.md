@@ -101,6 +101,7 @@ Collection of LeetCode questions I have solved!
 | [0345-reverse-vowels-of-a-string](https://github.com/sudsali/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sudsali/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sudsali/DSA/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/sudsali/DSA/tree/master/0567-permutation-in-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sudsali/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/sudsali/DSA/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sudsali/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions I have solved!
 | [0394-decode-string](https://github.com/sudsali/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sudsali/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/sudsali/DSA/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/sudsali/DSA/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/sudsali/DSA/tree/master/0649-dota2-senate) |
 | [0952-word-subsets](https://github.com/sudsali/DSA/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sudsali/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions I have solved!
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudsali/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/sudsali/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/sudsali/DSA/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/sudsali/DSA/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/sudsali/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sudsali/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -218,6 +221,7 @@ Collection of LeetCode questions I have solved!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudsali/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/sudsali/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/sudsali/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sudsali/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/sudsali/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sudsali/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
