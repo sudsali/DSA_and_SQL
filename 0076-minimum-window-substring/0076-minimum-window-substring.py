@@ -1,5 +1,12 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
+
+        #Create 2 hashmaps, create have and need variables
+        #if curr char count in s is equal to curr char count in t
+        #increase have
+        #while have == need, update res and reslen if min found 
+        # keep popping left and updating hashmap 
+
         if t == "":
             return ""
         countT,window = {},{}
