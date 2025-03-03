@@ -150,6 +150,7 @@ Collection of LeetCode questions I have solved!
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sudsali/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/sudsali/DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/sudsali/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/sudsali/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sudsali/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/sudsali/DSA/tree/master/0605-can-place-flowers) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions I have solved!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudsali/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sudsali/DSA/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/sudsali/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sudsali/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sudsali/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sudsali/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -270,6 +272,7 @@ Collection of LeetCode questions I have solved!
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sudsali/DSA/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/sudsali/DSA/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/sudsali/DSA/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
@@ -376,4 +379,12 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sudsali/DSA/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sudsali/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sudsali/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
