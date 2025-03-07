@@ -257,6 +257,7 @@ Collection of LeetCode questions I have solved!
 | ------- |
 | [0020-valid-parentheses](https://github.com/sudsali/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sudsali/DSA/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/sudsali/DSA/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/sudsali/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/sudsali/DSA/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sudsali/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions I have solved!
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sudsali/DSA/tree/master/0155-min-stack) |
 | [0969-number-of-recent-calls](https://github.com/sudsali/DSA/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
