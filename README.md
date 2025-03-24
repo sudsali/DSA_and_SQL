@@ -111,6 +111,7 @@ Collection of LeetCode questions I have solved!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudsali/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sudsali/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sudsali/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/sudsali/DSA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sudsali/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sudsali/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions I have solved!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sudsali/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sudsali/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sudsali/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sudsali/DSA/tree/master/0055-jump-game) |
@@ -377,6 +379,7 @@ Collection of LeetCode questions I have solved!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sudsali/DSA/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/sudsali/DSA/tree/master/0113-path-sum-ii) |
 ## Divide and Conquer
 |  |
