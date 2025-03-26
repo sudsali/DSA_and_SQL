@@ -161,6 +161,7 @@ Collection of LeetCode questions I have solved!
 | [0643-maximum-average-subarray-i](https://github.com/sudsali/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sudsali/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sudsali/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/sudsali/DSA/tree/master/0739-daily-temperatures) |
 | [0952-word-subsets](https://github.com/sudsali/DSA/tree/master/0952-word-subsets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sudsali/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/sudsali/DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions I have solved!
 | [0155-min-stack](https://github.com/sudsali/DSA/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/sudsali/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/sudsali/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/sudsali/DSA/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sudsali/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/sudsali/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -389,6 +391,7 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sudsali/DSA/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/sudsali/DSA/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
