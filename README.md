@@ -162,6 +162,7 @@ Collection of LeetCode questions I have solved!
 | [0724-find-pivot-index](https://github.com/sudsali/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sudsali/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sudsali/DSA/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/sudsali/DSA/tree/master/0883-car-fleet) |
 | [0952-word-subsets](https://github.com/sudsali/DSA/tree/master/0952-word-subsets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sudsali/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/sudsali/DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions I have solved!
 | [0015-3sum](https://github.com/sudsali/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/sudsali/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
+| [0883-car-fleet](https://github.com/sudsali/DSA/tree/master/0883-car-fleet) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sudsali/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sudsali/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -267,6 +269,7 @@ Collection of LeetCode questions I have solved!
 | [0394-decode-string](https://github.com/sudsali/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/sudsali/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sudsali/DSA/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/sudsali/DSA/tree/master/0883-car-fleet) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sudsali/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/sudsali/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -392,6 +395,7 @@ Collection of LeetCode questions I have solved!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sudsali/DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/sudsali/DSA/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/sudsali/DSA/tree/master/0883-car-fleet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
