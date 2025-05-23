@@ -134,6 +134,7 @@ Collection of LeetCode questions I have solved!
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudsali/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sudsali/DSA/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sudsali/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -157,6 +158,7 @@ Collection of LeetCode questions I have solved!
 | [0239-sliding-window-maximum](https://github.com/sudsali/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/sudsali/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sudsali/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0605-can-place-flowers](https://github.com/sudsali/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sudsali/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sudsali/DSA/tree/master/0724-find-pivot-index) |
@@ -210,6 +212,7 @@ Collection of LeetCode questions I have solved!
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudsali/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sudsali/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/sudsali/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sudsali/DSA/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/sudsali/DSA/tree/master/0952-word-subsets) |
@@ -283,6 +286,7 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sudsali/DSA/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/sudsali/DSA/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -408,4 +412,8 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sudsali/DSA/tree/master/0239-sliding-window-maximum) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
