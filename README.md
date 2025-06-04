@@ -140,6 +140,7 @@ Collection of LeetCode questions I have solved!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sudsali/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sudsali/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sudsali/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudsali/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions I have solved!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sudsali/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudsali/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sudsali/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
