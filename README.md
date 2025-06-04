@@ -157,6 +157,7 @@ Collection of LeetCode questions I have solved!
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sudsali/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sudsali/DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/sudsali/DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/sudsali/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sudsali/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/sudsali/DSA/tree/master/0283-move-zeroes) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions I have solved!
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sudsali/DSA/tree/master/0200-number-of-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/sudsali/DSA/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -377,6 +379,7 @@ Collection of LeetCode questions I have solved!
 | [0094-binary-tree-inorder-traversal](https://github.com/sudsali/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/sudsali/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sudsali/DSA/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/sudsali/DSA/tree/master/0200-number-of-islands) |
 | [0904-leaf-similar-trees](https://github.com/sudsali/DSA/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sudsali/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -391,6 +394,7 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sudsali/DSA/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/sudsali/DSA/tree/master/0200-number-of-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sudsali/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -423,4 +427,8 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sudsali/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
