@@ -123,6 +123,7 @@ Collection of LeetCode questions I have solved!
 | [0443-string-compression](https://github.com/sudsali/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sudsali/DSA/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/sudsali/DSA/tree/master/0649-dota2-senate) |
+| [0778-reorganize-string](https://github.com/sudsali/DSA/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/sudsali/DSA/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sudsali/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sudsali/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions I have solved!
 | [0334-increasing-triplet-subsequence](https://github.com/sudsali/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/sudsali/DSA/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/sudsali/DSA/tree/master/0649-dota2-senate) |
+| [0778-reorganize-string](https://github.com/sudsali/DSA/tree/master/0778-reorganize-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -225,6 +227,7 @@ Collection of LeetCode questions I have solved!
 | [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/sudsali/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sudsali/DSA/tree/master/0567-permutation-in-string) |
+| [0778-reorganize-string](https://github.com/sudsali/DSA/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/sudsali/DSA/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/sudsali/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sudsali/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -238,6 +241,7 @@ Collection of LeetCode questions I have solved!
 | [0088-merge-sorted-array](https://github.com/sudsali/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sudsali/DSA/tree/master/0179-largest-number) |
+| [0778-reorganize-string](https://github.com/sudsali/DSA/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/sudsali/DSA/tree/master/0883-car-fleet) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sudsali/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sudsali/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -274,6 +278,7 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
+| [0778-reorganize-string](https://github.com/sudsali/DSA/tree/master/0778-reorganize-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sudsali/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 ## Stack
 |  |
@@ -427,6 +432,7 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sudsali/DSA/tree/master/0239-sliding-window-maximum) |
+| [0778-reorganize-string](https://github.com/sudsali/DSA/tree/master/0778-reorganize-string) |
 ## Monotonic Queue
 |  |
 | ------- |
