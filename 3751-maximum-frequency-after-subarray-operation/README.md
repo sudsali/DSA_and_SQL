@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-frequency-after-subarray-operation">3751. Maximum Frequency After Subarray Operation</a></h2><h3>Medium</h3><hr><p>You are given an array <code>nums</code> of length <code>n</code>. You are also given an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-frequency-after-subarray-operation">Maximum Frequency After Subarray Operation</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an array <code>nums</code> of length <code>n</code>. You are also given an integer <code>k</code>.</p>
 
 <p>You perform the following operation on <code>nums</code> <strong>once</strong>:</p>
 
