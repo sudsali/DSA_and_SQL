@@ -6,9 +6,6 @@ class Solution:
         for index, val in enumerate(strs):
             heap2[index] = "".join(sorted(val))
             pattern.add(heap2[index])
-
-        print(pattern)
-        print(heap2)
     
         i = -1
         for p in pattern:
@@ -16,8 +13,6 @@ class Solution:
             for key,val in heap2.items():
                 if p == val:
                     heap3[i].append(strs[key])
-
-        print(heap3)
 
         res = []
         for key, val in heap3.items():
