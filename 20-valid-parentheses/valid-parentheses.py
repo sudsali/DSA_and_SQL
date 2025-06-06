@@ -12,4 +12,4 @@ class Solution:
                 stack.pop()
             else:
                 return False
-        return not stack
+        return len(stack) == 0
