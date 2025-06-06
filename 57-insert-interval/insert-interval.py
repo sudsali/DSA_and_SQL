@@ -17,5 +17,4 @@ class Solution:
 
         if not newInterval_flag:
             res.append(newInterval)
-            newInterval_flag = True
         return res
