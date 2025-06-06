@@ -229,6 +229,7 @@ Collection of LeetCode questions I have solved!
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudsali/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sudsali/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sudsali/DSA/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/sudsali/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/sudsali/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions I have solved!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sudsali/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sudsali/DSA/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/sudsali/DSA/tree/master/0969-number-of-recent-calls) |
@@ -378,6 +380,7 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sudsali/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/sudsali/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sudsali/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sudsali/DSA/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sudsali/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -457,4 +460,8 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sudsali/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sudsali/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
