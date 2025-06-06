@@ -112,6 +112,7 @@ Collection of LeetCode questions I have solved!
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudsali/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sudsali/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sudsali/DSA/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/sudsali/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sudsali/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sudsali/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/sudsali/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions I have solved!
 | [0027-remove-element](https://github.com/sudsali/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sudsali/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sudsali/DSA/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/sudsali/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sudsali/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sudsali/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/sudsali/DSA/tree/master/0057-insert-interval) |
@@ -229,6 +231,7 @@ Collection of LeetCode questions I have solved!
 | ------- |
 | [0001-two-sum](https://github.com/sudsali/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudsali/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sudsali/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sudsali/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sudsali/DSA/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/sudsali/DSA/tree/master/0146-lru-cache) |
@@ -249,6 +252,7 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sudsali/DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/sudsali/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sudsali/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sudsali/DSA/tree/master/0179-largest-number) |
