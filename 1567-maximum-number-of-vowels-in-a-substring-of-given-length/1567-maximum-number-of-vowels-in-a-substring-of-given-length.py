@@ -1,14 +1,18 @@
 class Solution:
     def maxVowels(self, s: str, k: int) -> int:
-        curr = 0
+        vowels = set('aeiou')
+        res = 0
+
         for i in range(k):
-            if s[i] == 'a' or s[i] == 'e' or s[i] == 'i' or s[i] == 'o' or s[i] == 'u':
-                curr+=1
-        maxnum = curr
-        for i in range(k,len(s)):
-            if s[i] == 'a' or s[i] == 'e' or s[i] == 'i' or s[i] == 'o' or s[i] == 'u':
-                curr = curr+1
-            if s[i-k] == 'a' or s[i-k] == 'e' or s[i-k] == 'i' or s[i-k] == 'o' or s[i-k] == 'u':
-                curr-=1
-            maxnum = max(maxnum,curr)
-        return maxnum
+            if s[i] in vowels:
+                res+=1
+
+        curr_num = res
+        for i in range(1,len(s)-k+1):
+            if s[i-1] in vowels:
+                curr_num-=1
+            if s[i+k-1] in vowels:
+                curr_num+=1
+            res = max(res,curr_num)
+
+        return res
