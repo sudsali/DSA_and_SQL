@@ -395,6 +395,7 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sudsali/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/sudsali/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/sudsali/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sudsali/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sudsali/DSA/tree/master/0328-odd-even-linked-list) |
@@ -446,6 +447,7 @@ Collection of LeetCode questions I have solved!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sudsali/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/sudsali/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sudsali/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -458,6 +460,7 @@ Collection of LeetCode questions I have solved!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sudsali/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/sudsali/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sudsali/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/sudsali/DSA/tree/master/0778-reorganize-string) |
@@ -489,4 +492,8 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sudsali/DSA/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sudsali/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
