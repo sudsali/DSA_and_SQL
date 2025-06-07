@@ -139,6 +139,7 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sudsali/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/sudsali/DSA/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudsali/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sudsali/DSA/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions I have solved!
 | [0027-remove-element](https://github.com/sudsali/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sudsali/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sudsali/DSA/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/sudsali/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sudsali/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sudsali/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sudsali/DSA/tree/master/0055-jump-game) |
@@ -284,6 +286,7 @@ Collection of LeetCode questions I have solved!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sudsali/DSA/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/sudsali/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sudsali/DSA/tree/master/0733-flood-fill) |
 | [2428-equal-row-and-column-pairs](https://github.com/sudsali/DSA/tree/master/2428-equal-row-and-column-pairs) |
