@@ -183,6 +183,7 @@ Collection of LeetCode questions I have solved!
 | [0739-daily-temperatures](https://github.com/sudsali/DSA/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sudsali/DSA/tree/master/0883-car-fleet) |
 | [0952-word-subsets](https://github.com/sudsali/DSA/tree/master/0952-word-subsets) |
+| [1036-rotting-oranges](https://github.com/sudsali/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sudsali/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/sudsali/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sudsali/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions I have solved!
 | [0048-rotate-image](https://github.com/sudsali/DSA/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/sudsali/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sudsali/DSA/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/sudsali/DSA/tree/master/1036-rotting-oranges) |
 | [2428-equal-row-and-column-pairs](https://github.com/sudsali/DSA/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -434,6 +436,7 @@ Collection of LeetCode questions I have solved!
 | [0127-word-ladder](https://github.com/sudsali/DSA/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/sudsali/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sudsali/DSA/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/sudsali/DSA/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sudsali/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
