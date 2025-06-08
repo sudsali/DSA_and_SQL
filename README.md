@@ -138,6 +138,7 @@ Collection of LeetCode questions I have solved!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sudsali/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sudsali/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sudsali/DSA/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudsali/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions I have solved!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sudsali/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sudsali/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sudsali/DSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/sudsali/DSA/tree/master/0394-decode-string) |
@@ -396,6 +398,7 @@ Collection of LeetCode questions I have solved!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sudsali/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sudsali/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/sudsali/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/sudsali/DSA/tree/master/0146-lru-cache) |
