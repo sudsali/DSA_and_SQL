@@ -1,34 +1,25 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if t == "":
-            return ""
-        countT,window = {},{}
-        
-        for c in t:
-            countT[c] = 1 + countT.get(c,0)
-
-        have, need = 0, len(countT)
+        count_t = collections.Counter(t)
+        hash_map = {}
+        current_count = 0
+        required = len(count_t)
+        res = ""
         l = 0
-        res,resLen = [-1,-1], float("infinity")
-        
+        min_len = float("inf")
+
         for r in range(len(s)):
-            c = s[r]
-            window[c] = 1 + window.get(c,0)
-
-            if c in countT and window[c] == countT[c]:
-                have+=1
-
-            while have == need:
-                if (r-l+1) < resLen:
-                    res = [l,r]
-                    resLen = r - l + 1
-                window[s[l]]-=1
-                if s[l] in countT and window[s[l]] < countT[s[l]]:
-                    have-=1
-                l+=1
+            hash_map[s[r]] = hash_map.get(s[r], 0) + 1
+            if count_t[s[r]] == hash_map[s[r]] and s[r] in count_t:
+                current_count+=1
             
-        l,r = res
-        if resLen != float("infinity"):
-            return s[l:r+1]
-        else:
-            return ""
+            while required == current_count:
+                if r-l+1 < min_len:
+                    min_len = r-l+1
+                    res = s[l:r+1]
+                
+                hash_map[s[l]]-=1
+                if s[l] in count_t and count_t[s[l]] > hash_map[s[l]]:
+                    current_count-=1
+                l+=1
+        return res
