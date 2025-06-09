@@ -2,19 +2,20 @@ class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         m = len(matrix)
         n = len(matrix[0])
-        found = False
-        new_r = 0
-        new_c = 0
+        low = 0
+        high = m * n - 1
 
-        for i in range(m):
-            if target<=matrix[i][n-1]:
-                new_r = i
-                new_c = n-1
-                break
+        while low <= high:
+            mid = (low+high)//2
+            row,col = divmod(mid,n)
+            mid_val = matrix[row][col]
 
-        for r in range(new_r+1):
-            for c in range(new_c+1):
-                if target == matrix[r][c]:
-                    found = True
+            if target == mid_val:
+                return True
+            elif mid_val < target:
+                low = mid+1
+            else:
+                high = mid-1
 
-        return found
+        return False
+            
