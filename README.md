@@ -161,6 +161,7 @@ Collection of LeetCode questions I have solved!
 | [0053-maximum-subarray](https://github.com/sudsali/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sudsali/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/sudsali/DSA/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/sudsali/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudsali/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sudsali/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudsali/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions I have solved!
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sudsali/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudsali/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0907-koko-eating-bananas](https://github.com/sudsali/DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/sudsali/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -293,6 +295,7 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sudsali/DSA/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/sudsali/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sudsali/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sudsali/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sudsali/DSA/tree/master/1036-rotting-oranges) |
