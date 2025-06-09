@@ -412,6 +412,7 @@ Collection of LeetCode questions I have solved!
 | [0094-binary-tree-inorder-traversal](https://github.com/sudsali/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/sudsali/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sudsali/DSA/tree/master/0113-path-sum-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudsali/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/sudsali/DSA/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sudsali/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -421,6 +422,7 @@ Collection of LeetCode questions I have solved!
 | [0112-path-sum](https://github.com/sudsali/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sudsali/DSA/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/sudsali/DSA/tree/master/0200-number-of-islands) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudsali/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0733-flood-fill](https://github.com/sudsali/DSA/tree/master/0733-flood-fill) |
 | [0904-leaf-similar-trees](https://github.com/sudsali/DSA/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sudsali/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -430,6 +432,7 @@ Collection of LeetCode questions I have solved!
 | [0094-binary-tree-inorder-traversal](https://github.com/sudsali/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/sudsali/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sudsali/DSA/tree/master/0113-path-sum-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudsali/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/sudsali/DSA/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sudsali/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
