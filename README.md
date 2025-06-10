@@ -201,6 +201,7 @@ Collection of LeetCode questions I have solved!
 | [2428-equal-row-and-column-pairs](https://github.com/sudsali/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/sudsali/DSA/tree/master/2727-number-of-senior-citizens) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sudsali/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/sudsali/DSA/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Greedy
 |  |
 | ------- |
@@ -214,6 +215,7 @@ Collection of LeetCode questions I have solved!
 | [0649-dota2-senate](https://github.com/sudsali/DSA/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/sudsali/DSA/tree/master/0778-reorganize-string) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sudsali/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/sudsali/DSA/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -262,6 +264,7 @@ Collection of LeetCode questions I have solved!
 | [1798-max-number-of-k-sum-pairs](https://github.com/sudsali/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/sudsali/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sudsali/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/sudsali/DSA/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Sorting
 |  |
 | ------- |
@@ -276,6 +279,7 @@ Collection of LeetCode questions I have solved!
 | [1108-analyze-user-website-visit-pattern](https://github.com/sudsali/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sudsali/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sudsali/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/sudsali/DSA/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Sliding Window
 |  |
 | ------- |
@@ -489,6 +493,7 @@ Collection of LeetCode questions I have solved!
 | [0239-sliding-window-maximum](https://github.com/sudsali/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sudsali/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/sudsali/DSA/tree/master/0778-reorganize-string) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/sudsali/DSA/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Monotonic Queue
 |  |
 | ------- |
