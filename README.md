@@ -154,6 +154,7 @@ Collection of LeetCode questions I have solved!
 | [0015-3sum](https://github.com/sudsali/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudsali/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sudsali/DSA/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sudsali/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sudsali/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sudsali/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sudsali/DSA/tree/master/0048-rotate-image) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions I have solved!
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sudsali/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sudsali/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudsali/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0907-koko-eating-bananas](https://github.com/sudsali/DSA/tree/master/0907-koko-eating-bananas) |
