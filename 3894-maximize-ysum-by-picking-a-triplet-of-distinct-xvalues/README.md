@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximize-ysum-by-picking-a-triplet-of-distinct-xvalues">3894. Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values</a></h2><h3>Medium</h3><hr><p>You are given two integer arrays <code>x</code> and <code>y</code>, each of length <code>n</code>. You must choose three <strong>distinct</strong> indices <code>i</code>, <code>j</code>, and <code>k</code> such that:</p>
+<h2><a href="https://leetcode.com/problems/maximize-ysum-by-picking-a-triplet-of-distinct-xvalues">Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given two integer arrays <code>x</code> and <code>y</code>, each of length <code>n</code>. You must choose three <strong>distinct</strong> indices <code>i</code>, <code>j</code>, and <code>k</code> such that:</p>
 
 <ul>
 	<li><code>x[i] != x[j]</code></li>
