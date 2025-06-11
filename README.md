@@ -180,6 +180,7 @@ Collection of LeetCode questions I have solved!
 | [0200-number-of-islands](https://github.com/sudsali/DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/sudsali/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sudsali/DSA/tree/master/0239-sliding-window-maximum) |
+| [0252-meeting-rooms](https://github.com/sudsali/DSA/tree/master/0252-meeting-rooms) |
 | [0283-move-zeroes](https://github.com/sudsali/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sudsali/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sudsali/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions I have solved!
 | [0088-merge-sorted-array](https://github.com/sudsali/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sudsali/DSA/tree/master/0179-largest-number) |
+| [0252-meeting-rooms](https://github.com/sudsali/DSA/tree/master/0252-meeting-rooms) |
 | [0347-top-k-frequent-elements](https://github.com/sudsali/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/sudsali/DSA/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/sudsali/DSA/tree/master/0883-car-fleet) |
