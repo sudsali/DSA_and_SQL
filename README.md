@@ -198,6 +198,7 @@ Collection of LeetCode questions I have solved!
 | [1036-rotting-oranges](https://github.com/sudsali/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sudsali/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/sudsali/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1239-largest-1-bordered-square](https://github.com/sudsali/DSA/tree/master/1239-largest-1-bordered-square) |
 | [1319-unique-number-of-occurrences](https://github.com/sudsali/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sudsali/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sudsali/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions I have solved!
 | [0198-house-robber](https://github.com/sudsali/DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/sudsali/DSA/tree/master/0392-is-subsequence) |
 | [0472-concatenated-words](https://github.com/sudsali/DSA/tree/master/0472-concatenated-words) |
+| [1239-largest-1-bordered-square](https://github.com/sudsali/DSA/tree/master/1239-largest-1-bordered-square) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudsali/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sudsali/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
@@ -322,6 +324,7 @@ Collection of LeetCode questions I have solved!
 | [0200-number-of-islands](https://github.com/sudsali/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sudsali/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sudsali/DSA/tree/master/1036-rotting-oranges) |
+| [1239-largest-1-bordered-square](https://github.com/sudsali/DSA/tree/master/1239-largest-1-bordered-square) |
 | [2428-equal-row-and-column-pairs](https://github.com/sudsali/DSA/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
