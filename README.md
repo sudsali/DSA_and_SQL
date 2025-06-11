@@ -168,6 +168,7 @@ Collection of LeetCode questions I have solved!
 | [0088-merge-sorted-array](https://github.com/sudsali/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudsali/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudsali/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/sudsali/DSA/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudsali/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudsali/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions I have solved!
 | [0045-jump-game-ii](https://github.com/sudsali/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sudsali/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudsali/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/sudsali/DSA/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/sudsali/DSA/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sudsali/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/sudsali/DSA/tree/master/0605-can-place-flowers) |
