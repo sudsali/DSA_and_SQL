@@ -98,6 +98,7 @@ Collection of LeetCode questions I have solved!
 | [0151-reverse-words-in-a-string](https://github.com/sudsali/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudsali/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sudsali/DSA/tree/master/0189-rotate-array) |
+| [0253-meeting-rooms-ii](https://github.com/sudsali/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/sudsali/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sudsali/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sudsali/DSA/tree/master/0392-is-subsequence) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions I have solved!
 | [0238-product-of-array-except-self](https://github.com/sudsali/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sudsali/DSA/tree/master/0239-sliding-window-maximum) |
 | [0252-meeting-rooms](https://github.com/sudsali/DSA/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/sudsali/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/sudsali/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sudsali/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sudsali/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -220,6 +222,7 @@ Collection of LeetCode questions I have solved!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudsali/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/sudsali/DSA/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/sudsali/DSA/tree/master/0179-largest-number) |
+| [0253-meeting-rooms-ii](https://github.com/sudsali/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/sudsali/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/sudsali/DSA/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/sudsali/DSA/tree/master/0649-dota2-senate) |
@@ -230,6 +233,7 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sudsali/DSA/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/sudsali/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0724-find-pivot-index](https://github.com/sudsali/DSA/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/sudsali/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/sudsali/DSA/tree/master/1833-find-the-highest-altitude) |
@@ -288,6 +292,7 @@ Collection of LeetCode questions I have solved!
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sudsali/DSA/tree/master/0179-largest-number) |
 | [0252-meeting-rooms](https://github.com/sudsali/DSA/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/sudsali/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sudsali/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/sudsali/DSA/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/sudsali/DSA/tree/master/0883-car-fleet) |
@@ -511,6 +516,7 @@ Collection of LeetCode questions I have solved!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sudsali/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/sudsali/DSA/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/sudsali/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sudsali/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/sudsali/DSA/tree/master/0778-reorganize-string) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/sudsali/DSA/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
