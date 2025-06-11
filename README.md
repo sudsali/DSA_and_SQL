@@ -125,6 +125,7 @@ Collection of LeetCode questions I have solved!
 | [0394-decode-string](https://github.com/sudsali/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sudsali/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/sudsali/DSA/tree/master/0443-string-compression) |
+| [0472-concatenated-words](https://github.com/sudsali/DSA/tree/master/0472-concatenated-words) |
 | [0567-permutation-in-string](https://github.com/sudsali/DSA/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/sudsali/DSA/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/sudsali/DSA/tree/master/0778-reorganize-string) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions I have solved!
 | [0334-increasing-triplet-subsequence](https://github.com/sudsali/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sudsali/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0472-concatenated-words](https://github.com/sudsali/DSA/tree/master/0472-concatenated-words) |
 | [0605-can-place-flowers](https://github.com/sudsali/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sudsali/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sudsali/DSA/tree/master/0724-find-pivot-index) |
@@ -245,6 +247,7 @@ Collection of LeetCode questions I have solved!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudsali/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/sudsali/DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/sudsali/DSA/tree/master/0392-is-subsequence) |
+| [0472-concatenated-words](https://github.com/sudsali/DSA/tree/master/0472-concatenated-words) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudsali/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sudsali/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
@@ -449,6 +452,7 @@ Collection of LeetCode questions I have solved!
 | [0207-course-schedule](https://github.com/sudsali/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sudsali/DSA/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudsali/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0472-concatenated-words](https://github.com/sudsali/DSA/tree/master/0472-concatenated-words) |
 | [0733-flood-fill](https://github.com/sudsali/DSA/tree/master/0733-flood-fill) |
 | [0904-leaf-similar-trees](https://github.com/sudsali/DSA/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sudsali/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -548,4 +552,8 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sudsali/DSA/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/sudsali/DSA/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
