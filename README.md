@@ -142,6 +142,7 @@ Collection of LeetCode questions I have solved!
 | [0002-add-two-numbers](https://github.com/sudsali/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sudsali/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sudsali/DSA/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/sudsali/DSA/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudsali/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sudsali/DSA/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions I have solved!
 | [0045-jump-game-ii](https://github.com/sudsali/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sudsali/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sudsali/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sudsali/DSA/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/sudsali/DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudsali/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudsali/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -538,4 +540,8 @@ Collection of LeetCode questions I have solved!
 | ------- |
 | [0207-course-schedule](https://github.com/sudsali/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sudsali/DSA/tree/master/0210-course-schedule-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sudsali/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
