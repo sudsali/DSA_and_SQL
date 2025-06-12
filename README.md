@@ -121,6 +121,7 @@ Collection of LeetCode questions I have solved!
 | [0049-group-anagrams](https://github.com/sudsali/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sudsali/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sudsali/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sudsali/DSA/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/sudsali/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/sudsali/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/sudsali/DSA/tree/master/0179-largest-number) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions I have solved!
 | [0055-jump-game](https://github.com/sudsali/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/sudsali/DSA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/sudsali/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sudsali/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudsali/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sudsali/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudsali/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -339,6 +341,7 @@ Collection of LeetCode questions I have solved!
 | [0048-rotate-image](https://github.com/sudsali/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sudsali/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sudsali/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sudsali/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sudsali/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sudsali/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sudsali/DSA/tree/master/1036-rotting-oranges) |
@@ -471,6 +474,7 @@ Collection of LeetCode questions I have solved!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sudsali/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudsali/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/sudsali/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sudsali/DSA/tree/master/0113-path-sum-ii) |
@@ -510,6 +514,7 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sudsali/DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/sudsali/DSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/sudsali/DSA/tree/master/0113-path-sum-ii) |
 ## Divide and Conquer
 |  |
