@@ -165,6 +165,7 @@ Collection of LeetCode questions I have solved!
 | [0031-next-permutation](https://github.com/sudsali/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sudsali/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sudsali/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/sudsali/DSA/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sudsali/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sudsali/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sudsali/DSA/tree/master/0048-rotate-image) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions I have solved!
 | [0001-two-sum](https://github.com/sudsali/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudsali/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sudsali/DSA/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/sudsali/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sudsali/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sudsali/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sudsali/DSA/tree/master/0127-word-ladder) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions I have solved!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sudsali/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sudsali/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sudsali/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sudsali/DSA/tree/master/0200-number-of-islands) |
