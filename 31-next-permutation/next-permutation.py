@@ -6,12 +6,6 @@ class Solution:
         n = len(nums)
         pivot = n - 1
 
-        def swap(nums,pivot,index):
-            temp = nums[pivot]
-            nums[pivot] = nums[index]
-            nums[index] = temp
-            return
-
         while pivot >=1 and nums[pivot] <= nums[pivot-1]:
             pivot-=1
         
@@ -19,11 +13,11 @@ class Solution:
             i = n-1
             while nums[i]<=nums[pivot-1]:
                 i-=1
-            swap(nums,pivot-1,i)
+            nums[pivot-1], nums[i] = nums[i], nums[pivot-1]
         
         left = pivot
         right = n -1
         while left < right:
-            swap(nums,left,right)
+            nums[left], nums[right] = nums[right], nums[left]
             left+=1
             right-=1
