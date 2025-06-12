@@ -114,6 +114,7 @@ Collection of LeetCode questions I have solved!
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudsali/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sudsali/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sudsali/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/sudsali/DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/sudsali/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sudsali/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sudsali/DSA/tree/master/0049-group-anagrams) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions I have solved!
 | ------- |
 | [0002-add-two-numbers](https://github.com/sudsali/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sudsali/DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/sudsali/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/sudsali/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sudsali/DSA/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudsali/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -264,6 +266,7 @@ Collection of LeetCode questions I have solved!
 | ------- |
 | [0001-two-sum](https://github.com/sudsali/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudsali/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/sudsali/DSA/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/sudsali/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sudsali/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sudsali/DSA/tree/master/0127-word-ladder) |
