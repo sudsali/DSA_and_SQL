@@ -171,6 +171,7 @@ Collection of LeetCode questions I have solved!
 | [0048-rotate-image](https://github.com/sudsali/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sudsali/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sudsali/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sudsali/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sudsali/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/sudsali/DSA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/sudsali/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions I have solved!
 | ------- |
 | [0036-valid-sudoku](https://github.com/sudsali/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sudsali/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sudsali/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sudsali/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sudsali/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sudsali/DSA/tree/master/0733-flood-fill) |
@@ -345,6 +347,7 @@ Collection of LeetCode questions I have solved!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sudsali/DSA/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/sudsali/DSA/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/sudsali/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/sudsali/DSA/tree/master/2470-removing-stars-from-a-string) |
