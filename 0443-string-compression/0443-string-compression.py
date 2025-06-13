@@ -1,23 +1,20 @@
 class Solution:
     def compress(self, chars: List[str]) -> int:
-        s = ""
-        curr = chars[0]
-        count = 0
-        if len(chars) == 1:
-            return len(chars)
-        for i in range(len(chars)):
-            if curr != chars[i]:
-                s+=curr
-                if count > 1:
-                    s+=str(count)
-                curr = chars[i]
-                count = 1
-            else:
+        read = 0
+        write = 0
+        while read< len(chars):
+            char = chars[read]
+            count = 0
+            while read < len(chars) and chars[read] == char:
+                read+=1
                 count+=1
-        s+= curr
-        if count > 1:
-            s+= str(count)
-        chars.clear()
-        for i in s:
-            chars+=i            
-        return len(chars)
+            
+            chars[write] = char
+            write+=1
+
+            if count>1:
+                for c in str(count):
+                    chars[write] = c
+                    write+=1
+            
+        return write
