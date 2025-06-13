@@ -1,17 +1,18 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        #maintian a dict for count of characters
-        # keep increasing count by traversing the string of the character and update the max_freq
-        # when window sie - max_freq is greater than k, we decremennt character at left and shrink the window
-        ht = defaultdict(int)
+        left = 0
+        right = 0
+        max_freq={}
+        max_len = 0
         res = 0
-        l = 0
-        max_freq = 0
-        for r in range(len(s)):
-            ht[s[r]]+=1
-            max_freq = max(max_freq,ht[s[r]])
-            while r - l + 1 - max_freq > k:
-                ht[s[l]]-=1
-                l+=1
-            res = max(res,r-l+1)
+        for right in range(len(s)):
+            max_freq[s[right]] = max_freq.get(s[right],0)+1
+            max_len = max(max_len, max_freq[s[right]])
+
+            while (right - left + 1) - max_len > k:
+                max_freq[s[left]]-=1
+                left+=1
+
+            res = max(res,right-left+1)
+        
         return res
