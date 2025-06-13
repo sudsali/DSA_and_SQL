@@ -128,6 +128,7 @@ Collection of LeetCode questions I have solved!
 | [0345-reverse-vowels-of-a-string](https://github.com/sudsali/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sudsali/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sudsali/DSA/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/sudsali/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/sudsali/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/sudsali/DSA/tree/master/0443-string-compression) |
 | [0472-concatenated-words](https://github.com/sudsali/DSA/tree/master/0472-concatenated-words) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions I have solved!
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudsali/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sudsali/DSA/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/sudsali/DSA/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sudsali/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -351,6 +353,7 @@ Collection of LeetCode questions I have solved!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sudsali/DSA/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/sudsali/DSA/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/sudsali/DSA/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/sudsali/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/sudsali/DSA/tree/master/2470-removing-stars-from-a-string) |
