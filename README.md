@@ -125,6 +125,7 @@ Collection of LeetCode questions I have solved!
 | [0127-word-ladder](https://github.com/sudsali/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/sudsali/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/sudsali/DSA/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/sudsali/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sudsali/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sudsali/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sudsali/DSA/tree/master/0394-decode-string) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions I have solved!
 | [0138-copy-list-with-random-pointer](https://github.com/sudsali/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/sudsali/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/sudsali/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/sudsali/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/sudsali/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -390,6 +392,7 @@ Collection of LeetCode questions I have solved!
 | ------- |
 | [0146-lru-cache](https://github.com/sudsali/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sudsali/DSA/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/sudsali/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/sudsali/DSA/tree/master/0969-number-of-recent-calls) |
 ## Queue
@@ -591,5 +594,6 @@ Collection of LeetCode questions I have solved!
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sudsali/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0472-concatenated-words](https://github.com/sudsali/DSA/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
