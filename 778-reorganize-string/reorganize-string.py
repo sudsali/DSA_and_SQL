@@ -18,8 +18,5 @@ class Solution:
                heapq.heappush(heap,(prev_count,prev_char))
             
             prev_char, prev_count = char, freq+1
-        
-        for i in range(1,len(res)):
-            if res[i] == res[i-1]:
-                return ""
+            
         return res
