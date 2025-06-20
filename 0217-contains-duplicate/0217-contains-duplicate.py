@@ -1,13 +1,11 @@
-class Solution(object):
-    def containsDuplicate(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: bool
-        """
-        hashset = set()
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        checker = set()
+
         for i in nums:
-            if i in hashset:
-                return True
+            if i not in checker:
+                checker.add(i)
             else:
-                hashset.add(i)
+                return True
+        
         return False
