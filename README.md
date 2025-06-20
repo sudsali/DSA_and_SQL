@@ -144,6 +144,7 @@ Collection of LeetCode questions I have solved!
 | [1894-merge-strings-alternately](https://github.com/sudsali/DSA/tree/master/1894-merge-strings-alternately) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sudsali/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/sudsali/DSA/tree/master/2470-removing-stars-from-a-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sudsali/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2727-number-of-senior-citizens](https://github.com/sudsali/DSA/tree/master/2727-number-of-senior-citizens) |
 ## Math
 |  |
@@ -245,6 +246,7 @@ Collection of LeetCode questions I have solved!
 | [0605-can-place-flowers](https://github.com/sudsali/DSA/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/sudsali/DSA/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/sudsali/DSA/tree/master/0778-reorganize-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sudsali/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sudsali/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/sudsali/DSA/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Prefix Sum
@@ -304,6 +306,7 @@ Collection of LeetCode questions I have solved!
 | [1777-determine-if-two-strings-are-close](https://github.com/sudsali/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sudsali/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/sudsali/DSA/tree/master/2428-equal-row-and-column-pairs) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sudsali/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sudsali/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/sudsali/DSA/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Sorting
@@ -389,6 +392,7 @@ Collection of LeetCode questions I have solved!
 | [0883-car-fleet](https://github.com/sudsali/DSA/tree/master/0883-car-fleet) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sudsali/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/sudsali/DSA/tree/master/2470-removing-stars-from-a-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sudsali/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Recursion
 |  |
 | ------- |
