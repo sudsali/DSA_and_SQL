@@ -156,6 +156,7 @@ Collection of LeetCode questions I have solved!
 | [0062-unique-paths](https://github.com/sudsali/DSA/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudsali/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sudsali/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sudsali/DSA/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/sudsali/DSA/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sudsali/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions I have solved!
 | [0239-sliding-window-maximum](https://github.com/sudsali/DSA/tree/master/0239-sliding-window-maximum) |
 | [0252-meeting-rooms](https://github.com/sudsali/DSA/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/sudsali/DSA/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/sudsali/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sudsali/DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/sudsali/DSA/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/sudsali/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -296,6 +298,7 @@ Collection of LeetCode questions I have solved!
 | [0169-majority-element](https://github.com/sudsali/DSA/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sudsali/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/sudsali/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sudsali/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sudsali/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudsali/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/sudsali/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -323,6 +326,7 @@ Collection of LeetCode questions I have solved!
 | [0217-contains-duplicate](https://github.com/sudsali/DSA/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/sudsali/DSA/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/sudsali/DSA/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/sudsali/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sudsali/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/sudsali/DSA/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/sudsali/DSA/tree/master/0883-car-fleet) |
@@ -350,6 +354,7 @@ Collection of LeetCode questions I have solved!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sudsali/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sudsali/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudsali/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/sudsali/DSA/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/sudsali/DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/sudsali/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
@@ -626,4 +631,8 @@ Collection of LeetCode questions I have solved!
 | [0208-implement-trie-prefix-tree](https://github.com/sudsali/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/sudsali/DSA/tree/master/0212-word-search-ii) |
 | [0472-concatenated-words](https://github.com/sudsali/DSA/tree/master/0472-concatenated-words) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sudsali/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
