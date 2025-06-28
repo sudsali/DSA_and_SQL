@@ -280,6 +280,7 @@ Collection of LeetCode questions I have solved!
 | [0392-is-subsequence](https://github.com/sudsali/DSA/tree/master/0392-is-subsequence) |
 | [0472-concatenated-words](https://github.com/sudsali/DSA/tree/master/0472-concatenated-words) |
 | [1239-largest-1-bordered-square](https://github.com/sudsali/DSA/tree/master/1239-largest-1-bordered-square) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sudsali/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudsali/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sudsali/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
@@ -499,6 +500,7 @@ Collection of LeetCode questions I have solved!
 | [0226-invert-binary-tree](https://github.com/sudsali/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudsali/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/sudsali/DSA/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sudsali/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sudsali/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -516,6 +518,7 @@ Collection of LeetCode questions I have solved!
 | [0472-concatenated-words](https://github.com/sudsali/DSA/tree/master/0472-concatenated-words) |
 | [0733-flood-fill](https://github.com/sudsali/DSA/tree/master/0733-flood-fill) |
 | [0904-leaf-similar-trees](https://github.com/sudsali/DSA/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sudsali/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sudsali/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -527,6 +530,7 @@ Collection of LeetCode questions I have solved!
 | [0226-invert-binary-tree](https://github.com/sudsali/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudsali/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/sudsali/DSA/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sudsali/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sudsali/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
