@@ -501,6 +501,7 @@ Collection of LeetCode questions I have solved!
 | [0226-invert-binary-tree](https://github.com/sudsali/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudsali/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/sudsali/DSA/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sudsali/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sudsali/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sudsali/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -520,6 +521,7 @@ Collection of LeetCode questions I have solved!
 | [0472-concatenated-words](https://github.com/sudsali/DSA/tree/master/0472-concatenated-words) |
 | [0733-flood-fill](https://github.com/sudsali/DSA/tree/master/0733-flood-fill) |
 | [0904-leaf-similar-trees](https://github.com/sudsali/DSA/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sudsali/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sudsali/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sudsali/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -533,6 +535,7 @@ Collection of LeetCode questions I have solved!
 | [0226-invert-binary-tree](https://github.com/sudsali/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudsali/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/sudsali/DSA/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sudsali/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sudsali/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sudsali/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -550,6 +553,7 @@ Collection of LeetCode questions I have solved!
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/sudsali/DSA/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0733-flood-fill](https://github.com/sudsali/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sudsali/DSA/tree/master/1036-rotting-oranges) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sudsali/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sudsali/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
