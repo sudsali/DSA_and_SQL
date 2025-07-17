@@ -221,6 +221,7 @@ Collection of LeetCode questions I have solved!
 | [0952-word-subsets](https://github.com/sudsali/DSA/tree/master/0952-word-subsets) |
 | [1036-rotting-oranges](https://github.com/sudsali/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sudsali/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1087-longest-arithmetic-subsequence](https://github.com/sudsali/DSA/tree/master/1087-longest-arithmetic-subsequence) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/sudsali/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1239-largest-1-bordered-square](https://github.com/sudsali/DSA/tree/master/1239-largest-1-bordered-square) |
 | [1319-unique-number-of-occurrences](https://github.com/sudsali/DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions I have solved!
 | [0322-coin-change](https://github.com/sudsali/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/sudsali/DSA/tree/master/0392-is-subsequence) |
 | [0472-concatenated-words](https://github.com/sudsali/DSA/tree/master/0472-concatenated-words) |
+| [1087-longest-arithmetic-subsequence](https://github.com/sudsali/DSA/tree/master/1087-longest-arithmetic-subsequence) |
 | [1239-largest-1-bordered-square](https://github.com/sudsali/DSA/tree/master/1239-largest-1-bordered-square) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sudsali/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudsali/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions I have solved!
 | [0567-permutation-in-string](https://github.com/sudsali/DSA/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/sudsali/DSA/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/sudsali/DSA/tree/master/0952-word-subsets) |
+| [1087-longest-arithmetic-subsequence](https://github.com/sudsali/DSA/tree/master/1087-longest-arithmetic-subsequence) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/sudsali/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1319-unique-number-of-occurrences](https://github.com/sudsali/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sudsali/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -358,6 +361,7 @@ Collection of LeetCode questions I have solved!
 | [0268-missing-number](https://github.com/sudsali/DSA/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/sudsali/DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/sudsali/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1087-longest-arithmetic-subsequence](https://github.com/sudsali/DSA/tree/master/1087-longest-arithmetic-subsequence) |
 ## Matrix
 |  |
 | ------- |
