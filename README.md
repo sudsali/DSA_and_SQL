@@ -146,6 +146,7 @@ Collection of LeetCode questions I have solved!
 | [2470-removing-stars-from-a-string](https://github.com/sudsali/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sudsali/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2727-number-of-senior-citizens](https://github.com/sudsali/DSA/tree/master/2727-number-of-senior-citizens) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sudsali/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Math
 |  |
 | ------- |
